@@ -13,4 +13,8 @@ while True:
             print('Quitting...')  
             pygame.quit()   # Close Window
             quit()   # end pygame
+<<<<<<< HEAD
+=======
+      
+>>>>>>> c32c3d97d7a1ea39678cecd906506a1b3f319e77
 
